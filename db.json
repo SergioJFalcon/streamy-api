@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Unexpected Behavior",
+      "description": "This was editted with a patch request",
+      "userId": "104077551527825241481",
+      "id": 4
+    },
+    {
+      "title": "Sergio's Stream",
+      "description": "Wooo Streamin'",
+      "userId": "104077551527825241481",
+      "id": 5
+    }
+  ]
+}
